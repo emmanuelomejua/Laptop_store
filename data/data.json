@@ -1,0 +1,58 @@
+[
+    {
+         "id": "0",
+         "productName": "Grade one",
+         "image": "0d4068b585994552b49458b0df624e16.jpg",
+         "cpu": "Direct cotton mixed with fabrics",
+         "ram": "8GB ",
+         "storage": "512 GB SSD",
+         "screen": "13.9-inch, 3k(3 000 by 2 500)",
+         "price": "$300",
+         "description": "Corrective Maintenance: Corrective Maintenance is a reactive process that is focused on fixing failures in the system. It refers to the modification and enhancement done to the coding and design of a software to fix errors or defects detected by the user or concluded by error user report. This type of maintenance is initiated in the system to resolve any new or missed defects in the software. Corrective Maintenance is further divided into two types:"
+    },
+    {
+        "id": "1",
+        "productName": "Grade one plus",
+        "image": "c7e80b4ebf4a4d05a3be88f1576efc36.jpg",
+        "cpu": "Direct cotton mixed with fabrics",
+        "ram": "8GB ",
+        "storage": "512 GB SSD",
+        "screen": "13.9-inch, 3k(3 000 by 2 000)",
+        "price": "$230",
+        "description": "Corrective Maintenance: Corrective Maintenance is a reactive process that is focused on fixing failures in the system. It refers to the modification and enhancement done to the coding and design of a software to fix errors or defects detected by the user or concluded by error user report. This type of maintenance is initiated in the system to resolve any new or missed defects in the software. Corrective Maintenance is further divided into two types:"
+       
+   },
+   {
+    "id": "2",
+    "productName": "presidential wears",
+    "image": "9a3329c770e4420abcc6bc6c9597c676.jpg",
+    "cpu": "Direct cotton mixed with fabrics",
+    "ram": "8GB ",
+    "storage": "512 GB SSD",
+    "screen": "13.9-inch, 3k(3 000 by 2 000)",
+    "price": "$1700",
+    "description": "After completing the hectic and time consuming process of developing and testing a software application, taking measures to ensure its maintenance is quite sensible and important. Nowadays, software maintenance is widely accepted as part of Software Development Life Cycle (SDLC). It is the process of modifying and updating software application after its delivery to improve its performance, correct any new defects and adapt the product according to the modified environment. The purpose of software maintenance is to preserve the value of software over time, which can accomplished by:"
+    },
+    {
+        "id": "3",
+        "productName": "Igbo Ankara",
+        "image": "IMG-20201214-WA0119.jpg",
+        "cpu": "Direct cotton mixed with fabrics",
+        "ram": "8GB ",
+        "storage": "512 GB SSD",
+        "screen": "13.9-inch, 3k(3 000 by 2 000)",
+        "price": "$510",
+        "description": "Basic software maintenance includes optimization, error correction, and enhancement of existing features, which combine together to make the software abreast with the latest changes and demands of the software industry. However, the type of maintenance can vary in a software based on its nature and requirement. In order to make the process of maintaining software more profiting and beneficial, Software Maintenance is divided into four main categories: Corrective Maintenance: Corrective Maintenance is a reactive process that is focused on fixing failures in the system. It refers to the modification and enhancement done to the coding and design of a software to fix errors or defects detected by the user or concluded by error user report. This type of maintenance is initiated in the system to resolve any new or missed defects in the software."
+   },
+   {
+     "id": "4",
+     "productName": "HP ProBook 6065b",
+     "image": "IMG-20201214-WA0119.jpg",
+     "cpu": "10th generation core i5",
+     "ram": "8GB ",
+     "storage": "500 GB HDD",
+     "screen": "13.9-inch, 3k(1 950 by 2 000)",
+     "price": "$230",
+     "description": "VIP products from the republic of Biafra"
+}
+]

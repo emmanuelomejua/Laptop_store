@@ -1,0 +1,39 @@
+*, *::before, *::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+body{
+    line-height: 1.7;
+    padding: 6rem 4rem 10rem;
+    color: #555;
+    min-height: 100vh;
+    background: linear-gradient(to bottom right #67b26f #4ca2cd);
+}
+h1{
+    font-size: 6rem;
+    font-weight: 600;
+    color: rgb(10, 68, 49);
+    transform: skewY(-5deg);
+    margin-bottom: 6rem;
+    text-align: center;
+    position: relative;
+    word-spacing: 3px;
+    /* background-color: aquamarine; */
+}
+h1::before{
+    content: '';
+    display: block;
+    height: 65%;
+    width: 58%;
+    position: absolute;
+    top: 105%;
+    background: linear-gradient(to bottom, #67b26f #4ca2cd);
+    opacity: .8;
+    z-index: -1;
+    transform: skewY(370deg) translate(-50%, -50%);
+}
